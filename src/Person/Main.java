@@ -8,6 +8,8 @@ public class Main {
     System.out.println(person1.fullName());
     System.out.println(person1.age);
     System.out.println(person1.bmi());
+	person1.fullName();
 	}
+
 
 }
